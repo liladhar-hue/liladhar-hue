@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Liladhar (@liladhar-hue)
+# 👋 Hi, I’m Liladhar (@liladhar)
 
 - 👀 Interested in **coding, databases, and exploring new technologies**  
 - 🌱 Currently learning **Python** and **SQL**  
