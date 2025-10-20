@@ -1,11 +1,9 @@
-# 👋 Hi, I’m Liladhar (@liladhar)
+# Hello friends < >
 
-- 👀 Interested in **coding, databases, and exploring new technologies**  
-- 🌱 Currently learning **Python** and **SQL**  
-- 💡 Enjoy building **small projects** and experimenting with new ideas  
-- 🚀 Exploring **GitHub contributions** and open-source projects  
-- 🎯 Goal: Improve my skills and create projects that help others learn  
+I’m learning and exploring the field of cybersecurity and ethical hacking.  
+My main focus is on understanding systems, networks, and how to test their security through pentesting.  
 
----
+I prefer to learn quietly, experiment practically, and improve step by step.  
+Most of the projects and notes here are part of my personal learning journey.
 
-📌 *This profile is where I share my learning journey and projects.*
+Stay curious. Keep learning.
