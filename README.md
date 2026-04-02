@@ -1,5 +1,5 @@
 # Liladhar Parihar
-*Understanding systems by building and analyzing them.*
+*Deconstructing systems to understand their behavior.*
 
 ## 🎯 Focus
 * Network behavior and traffic analysis
@@ -19,7 +19,7 @@ Exploring low-level OS mechanics and memory management.
 * **Goal:** Demystifying malware techniques to better understand endpoint detection and system-level behavior.
 
 ## 🧠 Approach
-*Build → Observe → Break → Understand*
+*Probe → Observe → Break → Understand*
 * Prefer depth over tools
 * Treat systems as behavior, not interfaces
 
