@@ -1,18 +1,39 @@
-# 💫 About Me:
-Currently working on: Penetration Testing, Custom Network Traffic Tools<br>Looking to collaborate on: CTF challenges, Python-based security scripts<br>Currently learning: Burp Suite, Reverse Engineering, Web App Pentesting<br>Ask me about: Network Security, Kali Linux, Python, C/C++, and Bash scripting<br>Fun fact: Non-CS student who taught himself ethical hacking 
+# Liladhar Parihar
+*Understanding systems by building and analyzing them.*
 
+## 🎯 Focus
+* Network behavior and traffic analysis
+* Service identification and attack surface mapping
+* Vulnerability correlation (CVE → service mapping)
+* Reverse engineering (learning phase)
 
-## 🌐 Socials:
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lp0093462@gmail.com) 
+## 🛠️ Projects
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=liladhar-hue&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=liladhar-hue&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=liladhar-hue&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Network Security Analyzer
+A Python-based tool that models a simplified security assessment workflow. **The goal is not automation, but understanding how systems expose risk.**
+* **Features:** Network discovery, Port scanning and service detection, Basic vulnerability classification, and CVE lookup via NVD API.
 
----
-[![](https://visitcount.itsvg.in/api?id=liladhar-hue&icon=0&color=0)](https://visitcount.itsvg.in)
+### Process Injector
+Exploring low-level OS mechanics and memory management. 
+* **Focus:** Memory allocation, execution flow manipulation, and understanding process interaction.
+* **Goal:** Demystifying malware techniques to better understand endpoint detection and system-level behavior.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Approach
+*Build → Observe → Break → Understand*
+* Prefer depth over tools
+* Treat systems as behavior, not interfaces
+
+## 🚀 Current Work
+* Improving service fingerprinting accuracy
+* Studying how vulnerabilities map to real services
+* Exploring low-level system behavior
+
+## 💻 Environment
+`Linux` | `Python` | `C/C++` | `Networking Fundamentals`
+
+## 📬 Contact
+* **Email:** [lp0093462@gmail.com](mailto:lp0093462@gmail.com)
+* **LinkedIn:** [liladhar-parihar](https://www.linkedin.com/in/liladhar-parihar/)
+* **GitHub:** [liladhar-hue](https://github.com/liladhar-hue)
+
+> *"No assumptions. Only verification."*
